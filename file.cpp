@@ -1,6 +1,6 @@
 #include<iostream>
-#include<cstdio>
-#include<cstdlib>
+#include<stdio>
+#include<stdlib>
 using namespace std;
 /*
  * Node Declaration
